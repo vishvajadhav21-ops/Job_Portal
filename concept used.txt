@@ -1,0 +1,9 @@
+backend 
+1. in terminal
+   1] npm init
+   2] npm i express mongoose nodemon jsonwebtoken bcryptjs cookie-parser dotenv
+in fronted
+   npm i react-router-dom axios @reduxjs/toolkit react-redux
+
+
+npm  i redux-persist // for stop on user after loading page will not refresh
